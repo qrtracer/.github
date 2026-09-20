@@ -1,3 +1,5 @@
+<a href="https://qrtracer.io"><img src="https://raw.githubusercontent.com/qrtracer/.github/main/assets/qrtracer-icon.png" width="64" height="64" alt="QRtracer"></a>
+
 # QRtracer
 
 **Create QR codes. Track scans. Update your links.**
